@@ -19,4 +19,6 @@ I'm very interested in how climate change may cause phenological mis-matches phy
   </div>
 {{< /rawhtml >}}
 
+Email: kelly.loria @ nevada.unr.edu
+
 [Download my CV here](/CV_Loria_Kelly.pdf)
