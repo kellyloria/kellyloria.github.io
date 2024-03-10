@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Work on Kelly Loria</title>
+    <link>http://localhost:1313/tags/past-work/</link>
+    <description>Recent content in Past Work on Kelly Loria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/past-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Declines in alpine lake ice</title>
+      <link>http://localhost:1313/declines-in-alpine-lake-ice/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/declines-in-alpine-lake-ice/</guid>
+      <description>On thin ice: Linking elevation and long-term losses of lake ice cover Climate change is expected to have particularly strong effects in colder regions, such as those at high elevations. Yet due to remote locations and sparse data, it is unknown how mountain lakes are actually changing compared to other lakes in other regions. By assessing ice phenology trends for one of the highest (&amp;gt; 3000 m) and longest-running (36 yr) datasets on mountain lakes, we find that alpine lakes are decreasing ice cover 50% faster than average for more well-studied lakes in the Northern Hemisphere, emphasizing the importance of studying mountain lakes that provide water to nearly half of the world’s population.</description>
+    </item>
+    <item>
+      <title>Long-term apline zooplankton population dynamics</title>
+      <link>http://localhost:1313/long-term-apline-zooplankton-population-dynamics/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/long-term-apline-zooplankton-population-dynamics/</guid>
+      <description>Phenology of alpine zooplankton populations and the importance of lake ice-out The prolonged ice cover inherent to alpine lakes incurs unique challenges for aquatic life, which are compounded by recent shifts in the timing and duration of ice cover. To understand the responses of alpine zooplankton, we analyzed a decade (2009–2019) of open-water samples of Daphnia pulicaria and Hesperodiaptomus shoshone for growth, reproduction and ultraviolet radiation tolerance (Link to datasets). We described seasonal demographic patterns of growth, reproduction and trait expression for two common high elevation taxa Hesperodiaptomus shoshone and Daphnia pulicaria.</description>
+    </item>
+    <item>
+      <title>Comparative ecological characteristics of alpine lakes</title>
+      <link>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</guid>
+      <description>The life aquatic in high relief: shifts in the physical and biological characteristics of alpine lakes along an elevation gradient in the Rocky Mountains, USA In 2016 I lead a survey of mountain lakes ranging from 2480 to 3550 m a.s.l. in the Rocky Mountains of Colorado, USA. to investigate differences in ecological proccesses associated with landscape position.&#xA;Employing a mixed modeling framework, we uncovered noteworthy associations between elevation and nearly all measured physiochemical parameters affecting water quality.</description>
+    </item>
+  </channel>
+</rss>

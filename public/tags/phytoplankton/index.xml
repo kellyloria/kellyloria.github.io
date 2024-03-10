@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phytoplankton on Kelly Loria</title>
+    <link>http://localhost:1313/tags/phytoplankton/</link>
+    <description>Recent content in Phytoplankton on Kelly Loria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/phytoplankton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparative ecological characteristics of alpine lakes</title>
+      <link>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</guid>
+      <description>The life aquatic in high relief: shifts in the physical and biological characteristics of alpine lakes along an elevation gradient in the Rocky Mountains, USA In 2016 I lead a survey of mountain lakes ranging from 2480 to 3550 m a.s.l. in the Rocky Mountains of Colorado, USA. to investigate differences in ecological proccesses associated with landscape position.&#xA;Employing a mixed modeling framework, we uncovered noteworthy associations between elevation and nearly all measured physiochemical parameters affecting water quality.</description>
+    </item>
+  </channel>
+</rss>

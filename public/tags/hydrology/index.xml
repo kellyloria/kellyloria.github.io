@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrology on Kelly Loria</title>
+    <link>http://localhost:1313/tags/hydrology/</link>
+    <description>Recent content in Hydrology on Kelly Loria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nitrogen availability and mountain stream metabolism</title>
+      <link>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</guid>
+      <description>Biogeochemical linkages between nitrogen availability and mountain stream metabolism I’m examining the temporal synchrony of nitrogen supply-demand relationships across multiple reaches and mountain catchments to evaluate how shifts in nitrogen supply-demand relationships may affect in-stream ecological processes in streams like algal abundance and stream metabolism.&#xA;Preliminary results suggest uptake length increased with nitrate supply and decreased with epilithic algal biomass. Uptake rates appear to increased with nitrate supply and surprisingly decreased with epilithic algal biomass.</description>
+    </item>
+  </channel>
+</rss>

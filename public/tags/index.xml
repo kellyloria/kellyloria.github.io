@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kelly Loria</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Kelly Loria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biogeochemistry</title>
+      <link>http://localhost:1313/tags/biogeochemistry/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biogeochemistry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydrology</title>
+      <link>http://localhost:1313/tags/hydrology/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hydrology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lake</title>
+      <link>http://localhost:1313/tags/lake/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metabolism</title>
+      <link>http://localhost:1313/tags/metabolism/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/metabolism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stream</title>
+      <link>http://localhost:1313/tags/stream/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stream/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tahoe</title>
+      <link>http://localhost:1313/tags/tahoe/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tahoe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lake Ice</title>
+      <link>http://localhost:1313/tags/lake-ice/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lake-ice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Past Work</title>
+      <link>http://localhost:1313/tags/past-work/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/past-work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zooplankton</title>
+      <link>http://localhost:1313/tags/zooplankton/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zooplankton/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DOM</title>
+      <link>http://localhost:1313/tags/dom/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dom/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
