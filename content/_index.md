@@ -76,6 +76,4 @@ publications:
 ---
 My work focuses on aquatic ecosystem function in mountain catchments. I’m currently exploring the watershed level pressure that streams can exert on near-shore metabolism by using three years’ worth of high-resolution DO and water quality monitoring data as well seasonal biogeochemical testing of potential rates of nitrogen cycling Tahoe Basin Watersheds (CA/NV).
 
-want to add links to google scholar, research gate, and github
 
-**[Download .pdf of article](/Loria2019_Article_TheLifeAquaticInHighReliefShif.pdf)**
