@@ -25,4 +25,6 @@ I'm very interested in how climate change may cause phenological mis-matches phy
 
 [Link to google scholar](https://scholar.google.com/citations?user=c8Ul16sAAAAJ&hl=en&authuser=1)
 
+[Link to Blaszczak Watershed and Aquatic Ecosystem Ecology Lab](https://blaszczaklab.weebly.com)
+
 **Email:** kelly.loria @ nevada.unr.edu
