@@ -28,4 +28,4 @@ I’m interested in how climate change may cause phenological mis-matches physic
 
 [Link to Blaszczak Watershed and Aquatic Ecosystem Ecology Lab](https://blaszczaklab.weebly.com)
 
-**Email:** kloria at unr . edu
+**Email:** kloria @ unr . edu
