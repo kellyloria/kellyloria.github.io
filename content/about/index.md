@@ -5,10 +5,9 @@ hideDate = true
 hideLastMod = true
 +++
 
+I received my B.A. in Ecology and Evolutionary Biology from the University of Colorado where post-graduation; I led the Niwot Ridge Long Term Ecological Research Program’s alpine lake monitoring. In this role, I investigated spatial and temporal trends in alpine zooplankton communities, lake water quality, and the potential for climate change to alter the timing of physical signals like lake ice cover, peak lake inflow, and degree of lake stratification.
 
-I received my B.A. in Ecology and Evolutionary Biology from the University of Colorado where I stuck around post-graduation to lead the Niwot Ridge Long Term Ecological Research Program’s monitoring of alpine lakes. In this role, I investigated spatial and temporal trends in alpine zooplankton communities their lake water quality and potential for climate change to alter the timing of physical signals like lake ice-cover, peak lake inflow, and degree of lake stratification.
-
-I’m interested in how climate change may cause phenological mis-matches physical signals and biogeochemical responses in aquatic ecosystems. I’m currently a graduate candidate in the Ecology, Evolution and Conservation Biology Interdisciplinary Ph.D. Program at the University of Nevada Reno where I collaborate with USGS scientists, hydrologists, ecologists, and biologists, investigate patterns in dissolved oxygen and model metabolism in inflowing streams and the nearshore of Lake Tahoe.
+Currently, I’m a graduate candidate in the Ecology, Evolution, and Conservation Biology Interdisciplinary Ph.D. Program at the University of Nevada Reno where I collaborate with USGS scientists, hydrologists, ecologists, and biologists to investigate patterns in hydroclimate, water quality, and metabolism in both inflowing streams as well as the nearshore of Lake Tahoe (CA/NV). I’m especially interested in how climate change may cause phenological mismatches between physical signals and biogeochemical responses in aquatic ecosystems. Climate warming trends and the expected variability in the timing and intensity of precipitation in mountain regions could alter the availability of key resources like nitrogen during the winter months, with unknown effects on ecosystem energy fluxes (i.e., primary productivity [GPP] and ecosystem respiration [ER]). 
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
