@@ -27,42 +27,32 @@ Areas near inflowing streams tended to be more heterotrophic, while areas away f
 
 
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/NS_NEP_fig1.png" alt="Your Image Alt Text" style="max-width:89%; height:; auto;">
-  </div>
-{{< /rawhtml >}}
-
- <h6>Average modeled daily a) gross primary productivity (GPP top) and b) ecosystem respiration (ER bottom) in nmol O2 m-3 d-1 from June 2021 to September 2023 across 3 individual sensors at two instrumented nearshore locations (Blackwood: BW and Glenbrook: GB) and two nearshore locations away from inflowing streams (Sunnyside: SS and Slaughterhouse: SH). c) Differences of dry (2022) to wet (2023) water year differences (October 1st to September 6th) for NEP in nmol O2 m-3 d-1 Stars represent large differences ANOVA (p < 0.05 in NEP from wet and dry years. Color corresponds to site (BW in blue, GB in gold, SS in green, and SH in orange), and shading represents the upper (95 %) or lower (5 %) credible intervals of each posterior estimate of daily of GPP or ER.
-
-
- {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/NS_ppT_Fig2.png" alt="Your Image Alt Text" style="max-width:89%; height:auto;">
+    <img src="/NS_NEP_fig1.png" alt="Your Image Alt Text" style="max-width:89%; height:auto;">
   </div>
   <figcaption>
-    <h6>Results from Bayesian SEM for NEP (O2 m<sup>-3</sup> d<sup>-1</sup>) at time t at BW (in blue), GB (in gold), SS (in green), and SH (in orange) for a subset of overlapping data from all four sites (February to September 2023). a) The SEM structure for how NEP may be a function of precipitation, lake temperature, benthic light. Where color corresponds to climate processes like precipitation (dark blue for lake processes and gray for autoregressive processes), and arrow weight represents relationship strength for each parameter. b) The posterior estimates generated from each SEM parameter color-coded by shore, where mean posterior estimates are indicated by vertical lines and the black vertical line depicts zero.</h6>
+    <h6 style="font-size: 12px;">Average modeled daily a) gross primary productivity (GPP top) and b) ecosystem respiration (ER bottom) in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup> from June 2021 to September 2023 across 3 individual sensors at two instrumented nearshore locations (Blackwood: BW and Glenbrook: GB) and two nearshore locations away from inflowing streams (Sunnyside: SS and Slaughterhouse: SH). c) Differences of dry (2022) to wet (2023) water year differences (October 1st to September 6th) for NEP in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup>. Stars represent large differences ANOVA (p &lt; 0.05) in NEP from wet and dry years. Color corresponds to site (BW in blue, GB in gold, SS in green, and SH in orange), and shading represents the upper (95%) or lower (5%) credible intervals of each posterior estimate of daily GPP or ER.</h6>
   </figcaption>
 </figure>
 {{< /rawhtml >}}
 
 
+
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
+<figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/NS_ppT_Fig2.png" alt="Your Image Alt Text" style="max-width:89%; height:; auto;">
+    <img src="/NS_ppT_Fig2.png" alt="Your Image Alt Text" style="max-width:89%; height:auto;">
   </div>
+  <figcaption>
+    < <h6 style="font-size: 12px;">>Results from Bayesian SEM for NEP (O<sub>2 m<sup>-3</sup> d<sup>-1</sup>) at time t at BW (in blue), GB (in gold), SS (in green), and SH (in orange) for a subset of overlapping data from all four sites (February to September 2023). a) The SEM structure for how NEP may be a function of precipitation, lake temperature, benthic light. Where color corresponds to climate processes like precipitation (dark blue for lake processes and gray for autoregressive processes), and arrow weight represents relationship strength for each parameter. b) The posterior estimates generated from each SEM parameter color-coded by shore, where mean posterior estimates are indicated by vertical lines and the black vertical line depicts zero.</h6>
+  </figcaption>
+</figure>
 {{< /rawhtml >}}
 
- <h6>Results from Bayesian SEM for NEP (O2 m-3 d-1) at time t at BW (in blue), GB (in gold), SS (in green), and SH (in orange) for a subset of overlapping data from all four sites (February to September 2023). a) The SEM structure for how NEP may be a function of precipitation, lake temperature, benthic light. Where color corresponds to climate processes like precipitation, dark blue for lake processes, and gray for autoregressive processes) and arrow weight represents relationship strength for each parameter. b) The posterior estimates generated from each SEM parameter color coded by shore, where mean posterior estimates indicated by vertical lines and the black vertical depicts zero.  
-
-This work is ongoing and data will be available in 2025.
 
 
-Stay tuned for publication updates!
+Stay tuned for publication updates! Data available in 2025.
 
 **Co-authors:** Heili Lowman, Jasmine Krause, Leon Katon, Ramon Naranjo, Facundo Scordo, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
 
