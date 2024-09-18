@@ -7,11 +7,14 @@ readingtime = false
 hideAuthor = true
 +++
 
-## **Upstream efficiency and downstream productivity:** Linking mountain stream processes with near-shore productivity in the Lake Tahoe Basin.
+## **Upstream efficiency and downstream productivity:** The influence of mountain streamflow on nearshore metabolism in a large, oligotrophic lake across dry and wet years.
 
-Upland processes (snowmelt, streamflow, and stream temperature) can influence littoral (nearshore) productivity dynamics through modulating the timing and delivery of materials to lakes. The degree to which upland processes influence nearshore productivity as a function of their catchment characteristics relative to the influence of internal lake processes remains unclear. We continuously monitored dissolved oxygen, temperature, and specific conductance (SPC) at different depths in the nearshore of Lake Tahoe CA/NV, USA and at the outlets of two watersheds with differing flow regimes for three consecutive years. Nearshore gross primary productivity (GPP) immediately around inflowing streams was up to 60% higher relative to areas 1 km or more away from surface water inflows. 
+Streams transform and transport materials and nutrients based on the availability of organic matter, woody debris1, sediment1, and watershed attributes such as land use2, residence time, hydrologic connectivity, and catchment size3,4 and are indicative of large-scale ecosystem change5. Current warming trends and the expected variability in the timing and intensity of precipitation in mountain regions could also alter the availability of key resources and as well as physical processes, with unknown effects on ecosystem energy fluxes (i.e., primary productivity- GPP and ecosystem respiration- ER). Therefore, we set out to characterize seasonal rates of productivity along the nearshore of Lake Tahoe across multiple catchments that accumulate different amounts of precipitation and have unique flow regimes for three consecutive and extreme hydroclimatic years (2021to 2023).
 
-Across all locations, GPP was strongly related to the previous days’ GPP and negatively associated with variation in daily shortwave radiation, wind speed, and stream water SPC. Our findings indicate that nearshore metabolism is sensitive to daily variations in weather; these patterns were more pronounced for the west shore of Lake Tahoe which accumulates greater amounts of annual precipitation, typically as snow, relative to the drier east shore. Additionally, the impact of upland processes on nearshore metabolism varied with winter precipitation, indicating drier years may lead to increased nearshore GPP.  Given the anticipated climate warming in western US mountain basins, changes to upland processes (i.e. warmer temperatures, prolonged droughts, and enhanced groundwater nutrient delivery), may also promote unwanted algal growth.
+We deployed networks of dissolved oxygen sensors (three sensors per-shore) to create a large high resolution time series of modeled metabolism across four difference nearshore (3 m deep) locations. Past work in Tahoe has focused on synoptic discrete measures of algal biomass and bottle incubations to estimate rates of GPP and ER. Here we sought to capture relative quick nearshore responses to precipitation events as well as seasonal regimes by capturing daily GPP and ER, weather, and streamflow dynamics.
+
+Areas near inflowing streams tended to be more heterotrophic, while areas away from streams appeared more autotrophic. Intra-annually, we typically observed elevated productivity at all locations in the spring and late fall9 likely following patterns of turbulent lake mixing and carbon and nutrients distributions10, 12, 13. During 2023 the water yield increased by 83% at both west and east shore creeks and lake level increased by up to 1.65 m. We additionally observed metabolic regimes with higher annual GPP during dry (2021) relative to wet (2023) hydroclimatic conditions. This trend supports similar work in mountain lakes where drier years (2021) favored autotrophic metabolism, while wetter hydroclimatic conditions (2023) favored heterotrophic metabolism11. We expect that all nearshore locations in 2023 were subject to prolonged run-off conditions (e.g. heightened material transport as well as enhanced turbulent mixing) following the historic winter and ultimately favored heterotrophic conditions in the nearshore. 
+
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
@@ -30,11 +33,27 @@ Across all locations, GPP was strongly related to the previous days’ GPP and n
   </div>
 {{< /rawhtml >}}
 
-This work is ongoing and will be presetned at the Society of Freshwater Sciences 2024 Philadelphia meeting.
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+  </p>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/NS_NEP_fig1.png" alt="Your Image Alt Text" style="max-width:89%; height:; auto;">
+  </div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+  </p>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/NS_ppT_Fig2.png" alt="Your Image Alt Text" style="max-width:89%; height:; auto;">
+  </div>
+{{< /rawhtml >}}
+
+This work is ongoing and data will be available in 2025.
 
 
 Stay tuned for publication updates!
 
-**Co-authors:** Heili Lowman, Jasmine Krause, Leon Katon, Facundo Scordo, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
+**Co-authors:** Heili Lowman, Jasmine Krause, Leon Katon, Ramon Naranjo, Facundo Scordo, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
 
 *Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
