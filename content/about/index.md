@@ -23,8 +23,8 @@ Currently, I’m a graduate candidate in the Ecology, Evolution, and Conservatio
 
 [Link to github](https://github.com/kellyloria)
 
-[Link to google scholar](https://scholar.google.com/citations?user=c8Ul16sAAAAJ&hl=en&authuser=1)
+[Link to google scholar](https://scholar.google.com/citations?user=t-whYUMAAAAJ&hl=en&oi=ao)
 
 [Link to Blaszczak Watershed and Aquatic Ecosystem Ecology Lab](https://blaszczaklab.weebly.com)
 
-**Email:** kloria @ unr . edu
+**Email:** kellyloria at gmail.com
