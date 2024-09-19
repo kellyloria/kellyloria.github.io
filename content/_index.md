@@ -21,7 +21,7 @@ address:
   - 
     name: University of Nevada Reno
     street: Blaszczak Watershed and Aquatic Ecosystem Ecology Lab
-    email: kloria @ unr.edu
+    email: kellyloria at gmail.com
  
 ## how to add?
 github.parm:
