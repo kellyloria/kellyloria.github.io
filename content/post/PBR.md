@@ -2,7 +2,7 @@
 date = "2024-09-18"
 title = "Climate Adaptation Science: Low-Tech Process-Based Restoration in Western Rangelands"
 slug = "Low-Tech Process-Based Restoration"
-tags = ["Beaver", "Rangeland", "Restoration", "Climate Adaptation Science Center", "Water Rights"]
+tags = ["Beaver", "Rangeland", "Restoration", "Climate Adaptation Science", "Water Rights"]
 readingtime = false
 hideAuthor = true
 +++
