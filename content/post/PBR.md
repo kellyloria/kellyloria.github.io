@@ -7,6 +7,17 @@ readingtime = false
 hideAuthor = true
 +++
 
+{{< rawhtml >}}
+<figure>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/BeaverDam_RMNP.png" alt="Your Image Alt Text" style="max-width:85%; height:auto;">
+  </div>
+  <figcaption>
+    <h6 style="font-size: 8x;"> Photo of beaver dam in Rocky Mountain National park by J. Scamardo. </h6>
+  </figcaption>
+</figure>
+{{< /rawhtml >}}
+
 ### Trends in the Outcomes, Practice, and Law of Low-Tech Process-Based Restoration in Western Rangelands
 Low tech process-based restoration (LTPBR) is increasingly used to improve river corridor resilience to diverse stressors introduced by changing land use, climate, and water usage. However, the future of LTPBR depends on multiple physical, ecological, and social factors, including the influence of water availability on LTPBR outcomes and the legal capacity for future restoration in water-limited environments. 
 A growing body of scientific and legal literature on LTPBR allows for a quantitative, regional comparison of LTPBR projects to understand: 
@@ -21,7 +32,7 @@ We evaluated data from 65 LTPBR projects in the western U.S. that used natural b
     <img src="/PBR_fig1.png" alt="Your Image Alt Text" style="max-width:85%; height:auto;">
   </div>
   <figcaption>
-    <h6 style="font-size: 12x;"> Conceptual diagram (not to scale) by J. Scamardo highlighting (A) anthropogenic and environmental stressors to headwater streams and downstream tributaries in the southwestern U.S., and (B) expected outcomes and benefits of instream, process-based restoration. Although restoration cannot remove or remediate all stressors, such as human water use and declining snowpacks, restoration is thought to slow and spread available water, which increases temporary water storage and reconnects streams and floodplains, allowing for riparian vegetation to thrive. </h6>
+    <h6 style="font-size: 8x;"> Conceptual diagram (not to scale) by J. Scamardo highlighting (A) anthropogenic and environmental stressors to headwater streams and downstream tributaries in the southwestern U.S., and (B) expected outcomes and benefits of instream, process-based restoration. Although restoration cannot remove or remediate all stressors, such as human water use and declining snowpacks, restoration is thought to slow and spread available water, which increases temporary water storage and reconnects streams and floodplains, allowing for riparian vegetation to thrive. </h6>
   </figcaption>
 </figure>
 {{< /rawhtml >}}
