@@ -1,6 +1,6 @@
 +++
 date = "2024-09-18"
-title = "Trends in the Outcomes, Practice, and Law of Low-Tech Process-Based Restoration in Western Rangelands"
+title = "Low-Tech Process-Based Restoration in Western Rangelands"
 slug = "Low-Tech Process-Based Restoration"
 tags = ["Beaver", "Rangeland", "Restoration", "Climate Adaptation Science Center", "Water Rights"]
 readingtime = false
