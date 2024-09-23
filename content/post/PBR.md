@@ -18,22 +18,23 @@ We evaluated data from 65 LTPBR projects in the western U.S. that used natural b
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/PBR_fig1.png" alt="Your Image Alt Text" style="max-width:69%; height:auto;">
+    <img src="/PBR_fig1.png" alt="Your Image Alt Text" style="max-width:85%; height:auto;">
   </div>
   <figcaption>
-    <h6 style="font-size: 12x;"> Conceptual diagram (not to scale) highlighting (A) anthropogenic and environmental stressors to headwater streams and downstream tributaries in the southwestern U.S., and (B) expected outcomes and benefits of instream, process-based restoration. Although restoration cannot remove or remediate all stressors, such as human water use and declining snowpacks, restoration is thought to slow and spread available water, which increases temporary water storage and reconnects streams and floodplains, allowing for riparian vegetation to thrive. </h6>
+    <h6 style="font-size: 12x;"> Conceptual diagram (not to scale) by J. Scamardo highlighting (A) anthropogenic and environmental stressors to headwater streams and downstream tributaries in the southwestern U.S., and (B) expected outcomes and benefits of instream, process-based restoration. Although restoration cannot remove or remediate all stressors, such as human water use and declining snowpacks, restoration is thought to slow and spread available water, which increases temporary water storage and reconnects streams and floodplains, allowing for riparian vegetation to thrive. </h6>
   </figcaption>
 </figure>
 {{< /rawhtml >}}
 
+**Co-authors:** Julianne Scamardo, Will Munger, Kelly Loria, Benjamin Nauman, Junna Wang, Sara Leopold, Anne Heggli, Nancy Huntly, Michelle A. Baker, and Alison M. Meadow
 
-**[Link to article](eventually) published in Rangeland Ecology & Management.**
-**[Download .pdf of article](/lol2.10181.pdf)**
+**[Not live yet--Link to article](eventually) published in Rangeland Ecology & Management.**
+**[Not live yet--Download .pdf of article](/lol2.10181.pdf)**
 
-# The Southwest Climate Adaptation Science Center (SW CASC) Fellowship. 
+### The Southwest Climate Adaptation Science Center (SW CASC) Fellowship. 
 The SW CASC is a collaborative federal-university partnership between the U.S. Geological Survey (USGS) and seven academic institutions from across the U.S. Southwest.
 
-I was able to participate in this restoration meta analysis via the SW CASC 2021-2022 Natural Resource Workforce Development (NWRD) Fellowship (Grant No. G18AC00320 from the U.S. Geological Survey). Our SW CASCS NWRD cohort had a core mission of creating actionable science that to build strong and authentic bridges between science and water management practices to understand future decreases in water flows on aquatic ecosystems.
+I was able to participate as co-author in this restoration meta analysis via the SW CASC 2021-2022 Natural Resource Workforce Development (NWRD) Fellowship (Grant No. G18AC00320 from the U.S. Geological Survey). Our SW CASCS NWRD cohort had a core mission of creating actionable science that to build strong and authentic bridges between science and water management practices to understand future decreases in water flows on aquatic ecosystems.
 
  ([Link to SWCASC blog post](https://www.swcasc.arizona.edu/news/seeing-stream-watershed-identifying-opportunities-climate-resilient-stream-restoration))
 
