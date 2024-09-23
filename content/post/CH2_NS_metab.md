@@ -54,7 +54,7 @@ Areas near inflowing streams tended to be more heterotrophic, while areas away f
 Stay tuned for publication updates! Data available in 2025.
 
 
-**[Download .pdf of slides from MtnClim 24](/Loria_MtnClim24.pdf.pdf)**
+**[Download .pdf of slides from MtnClim 24 presentation](/Loria_MtnClim24_slides.pdf)**
 
 
 *Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
