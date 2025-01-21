@@ -1,5 +1,5 @@
 +++
-date = "2024-09-18"
+date = "2024-08-29"
 title = "Climate Adaptation Science: Low-Tech Process-Based Restoration in Western Rangelands"
 slug = "Low-Tech Process-Based Restoration"
 tags = ["Beaver", "Rangeland", "Restoration", "Climate Adaptation Science", "Water Rights"]
@@ -10,10 +10,10 @@ hideAuthor = true
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/BeaverDam_ID.png" alt="Your Image Alt Text" style="max-width:90%; height:auto;">
+    <img src="/BeaverDam_ID.JPG" alt="Your Image Alt Text" style="max-width:90%; height:auto;">
   </div>
   <figcaption>
-    <h6 style="font-size: 8x;"> Photo of beaver dam in Rocky Mountain National park by J. Scamardo. </h6>
+    <h6 style="font-size: 8x;"> Photo of beaver dam in Mackay Idaho </h6>
   </figcaption>
 </figure>
 {{< /rawhtml >}}
