@@ -1,5 +1,5 @@
 +++
-date = "2024-09-01"
+date = "2025-01-20"
 title = "Upstream efficiency and downstream productivity"
 slug = "Upstream efficiency and downstream productivity"
 tags = ["Lake", "Biogeochemistry", "Metabolism", "Tahoe", "Stream"]

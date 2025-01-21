@@ -10,7 +10,7 @@ hideAuthor = true
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/BeaverDam_RMNP.png" alt="Your Image Alt Text" style="max-width:90%; height:auto;">
+    <img src="/BeaverDam_ID.png" alt="Your Image Alt Text" style="max-width:90%; height:auto;">
   </div>
   <figcaption>
     <h6 style="font-size: 8x;"> Photo of beaver dam in Rocky Mountain National park by J. Scamardo. </h6>
@@ -39,8 +39,8 @@ We evaluated data from 65 LTPBR projects in the western U.S. that used natural b
 
 **Co-authors:** Julianne Scamardo, Will Munger, Kelly Loria, Benjamin Nauman, Junna Wang, Sara Leopold, Anne Heggli, Nancy Huntly, Michelle A. Baker, and Alison M. Meadow
 
-**[Not live yet--Link to article](eventually) published in Rangeland Ecology & Management.**
-**[Not live yet--Download .pdf of article](/lol2.10181.pdf)**
+**[Link to article](https://www.sciencedirect.com/science/article/pii/S1550742424001623) published in Rangeland Ecology & Management.**
+**[Download .pdf of article](/Scamardo2025.pdf)**
 
 ### The Southwest Climate Adaptation Science Center (SW CASC) Fellowship. 
 The SW CASC is a collaborative federal-university partnership between the U.S. Geological Survey (USGS) and seven academic institutions from across the U.S. Southwest.
