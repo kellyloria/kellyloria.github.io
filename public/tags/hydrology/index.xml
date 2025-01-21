@@ -4,7 +4,7 @@
     <title>Hydrology on Kelly Loria</title>
     <link>http://localhost:1313/tags/hydrology/</link>
     <description>Recent content in Hydrology on Kelly Loria</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hydrology/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</guid>
-      <description>Biogeochemical linkages between nitrogen availability and mountain stream metabolism I’m examining the temporal synchrony of nitrogen supply-demand relationships across multiple reaches and mountain catchments to evaluate how shifts in nitrogen supply-demand relationships may affect in-stream ecological processes in streams like algal abundance and stream metabolism.&#xA;Preliminary results suggest uptake length increased with nitrate supply and decreased with epilithic algal biomass. Uptake rates appear to increased with nitrate supply and surprisingly decreased with epilithic algal biomass.</description>
+      <description>&lt;h3 id=&#34;biogeochemical-linkages-between-nitrogen-availability-and-mountain-stream-metabolism&#34;&gt;Biogeochemical linkages between nitrogen availability and mountain stream metabolism&lt;/h3&gt;&#xA;&lt;p&gt;I’m examining the temporal synchrony of nitrogen supply-demand relationships across multiple reaches and mountain catchments to evaluate how shifts in nitrogen supply-demand relationships may affect in-stream ecological processes in streams like algal abundance and stream metabolism.&lt;/p&gt;&#xA;&#xA;&#xA;  &lt;p class=&#34;speshal-fancy-custom&#34;&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;div style=&#34;display: flex; justify-content: space-between;&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/NCycle_diagram.png&#34; alt=&#34;Your Image Alt Text&#34; style=&#34;max-width: 60%; height: auto;&#34;&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Preliminary results suggest uptake length increased with nitrate supply and decreased with epilithic algal biomass. Uptake rates appear to increased with nitrate supply and surprisingly decreased with epilithic algal biomass. These results could suggest that summertime epilithic algal biomass is not necessarily limited by nitrate supply and is instead more governed by environmental forcing (water temperature and flow).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
