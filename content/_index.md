@@ -74,6 +74,6 @@ publications:
     # A description for the paper.
     description: Using a 36‐yr dataset (1983–2018) on alpine lakes (> 3000 m ASL) from the Green Lakes Valley, Colorado (GLV), we found that ice‐cover duration decreased by an average of ~ 24 d, due to both earlier ice‐off (9 d) and especially later ice‐on (15 d). Spring ice thickness also decreased by 0.88 cm yr−1. By comparison, ice‐cover duration in the GLV is decreasing ~ 50% faster than for Northern Hemisphere lakes (n = 215), which translates to an increase in open water duration ~ 2.5 times more in the GLV than the average of the Northern Hemisphere. Our analytical comparison demonstrated more rapid trends in this alpine region compared to lakes more broadly, and especially emphasized the influence of elevation on lake ice phenology.
 ---
-My work focuses on aquatic ecosystem function in mountain catchments. I’m currently exploring the watershed level pressure that streams can exert on near-shore metabolism by using three years’ worth of high-resolution DO and water quality monitoring data as well seasonal biogeochemical data on potential rates of nitrogen cycling Tahoe Basin Watersheds (CA/NV).
+My work focuses on aquatic ecosystem function in mountain catchments. I’m currently exploring the watershed level pressure that headwater catchments can exert on downstream ecosystems by examining multiple years’ worth of high-resolution biogeochemical and hydrological data to assess ecological responses associated with aquatic ecosystem productivity and nitrogen cycling within the Tahoe Basin (CA/NV).
 
 
