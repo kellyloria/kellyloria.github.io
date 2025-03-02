@@ -43,37 +43,6 @@ publications:
 
   - 
     authors:
-        - name: Sac, Kyle R
-        - name: Loria, Kelly A
-        - name: Blanken, Peter D  
-        - name: Caine, Nel
-        - name: Johnson, Pieter TJ
-    title: "On thin ice: Linking elevation and long-term losses of lake ice cover"
-    date: 2021
-    journal: Limnology and Oceanography Letters
-    image: /GL4_WINTER.png
-    citation: "@article{christianson2021thin,
-  title={On thin ice: Linking elevation and long-term losses of lake ice cover},
-  author={Christianson, Kyle R and Loria, Kelly A and Blanken, Peter D and Caine, Nel and Johnson, Pieter TJ},
-  journal={Limnology and Oceanography Letters},
-  volume={6},
-  number={2},
-  pages={77--84},
-  year={2021},
-  publisher={Wiley Online Library}
-}"
-    pdf: (/lol2.10181.pdf)
-    links:
-      -
-        name: Main URL
-        url: "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lol2.10181"
-      -
-        name: ResearchGate
-        url: "https://www.researchgate.net/publication/349112379_On_thin_ice_Linking_elevation_and_long-term_losses_of_lake_ice_cover"
-    description: Using a 36‐yr dataset (1983–2018) on alpine lakes (> 3000 m ASL) from the Green Lakes Valley, Colorado (GLV), we found that ice‐cover duration decreased by an average of ~ 24 d, due to both earlier ice‐off (9 d) and especially later ice‐on (15 d). Spring ice thickness also decreased by 0.88 cm yr−1. By comparison, ice‐cover duration in the GLV is decreasing ~ 50% faster than for Northern Hemisphere lakes (n = 215), which translates to an increase in open water duration ~ 2.5 times more in the GLV than the average of the Northern Hemisphere. Our analytical comparison demonstrated more rapid trends in this alpine region compared to lakes more broadly, and especially emphasized the influence of elevation on lake ice phenology.
-
-  - 
-    authors:
         - name: Scamardo, J.
         - name: Munger, W.
         - name: Loria, K. 
@@ -103,11 +72,11 @@ publications:
     links:
       -
         name: Main URL
-        url: "[Main URL Link]"
+        url: https://www.sciencedirect.com/science/article/pii/S1550742424001623
       -
         name: ResearchGate
-        url: "[ResearchGate Link]"
-    description: "[A short description of the paper]"
+        url: https://www.researchgate.net/publication/385925854_Trends_in_the_Outcomes_Practice_and_Law_of_Low-Tech_Process-Based_Restoration_in_Western_Rangelands
+    description: Low tech process-based restoration (LTPBR) is increasingly used to improve river corridor resilience to diverse stressors introduced by changing land use, climate, and water usage. However, the future of LTPBR depends on multiple physical, ecological, and social factors, including the influence of water availability on LTPBR outcomes and the legal capacity for future restoration in water-limited environments. Trends suggest that LTPBR could provide expected outcomes across western rangelands even amid changing water availability. Changes to state-level water laws and perceptions of social benefits of LTPBR could support the expansion of stream restoration in rangeland streams.
 
 
 
