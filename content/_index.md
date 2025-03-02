@@ -76,11 +76,11 @@ publications:
 
   - 
     authors:
-        - name: Christianson, Kyle R
-        - name: Loria, Kelly A
-        - name: Blanken, Peter D  
-        - name: Caine, Nel
-        - name: Johnson, Pieter TJ
+        - name: Christianson, K. R.
+        - name: Loria, K.
+        - name: Blanken, P. 
+        - name: Caine, N.
+        - name: Johnson, P. T. J.
     title: "On thin ice: Linking elevation and long-term losses of lake ice cover"
     # Will write "In ${journal}, ${date}"
     date: 2021
