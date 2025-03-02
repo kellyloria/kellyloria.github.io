@@ -28,16 +28,6 @@ github.parm:
   name: "@kellyloria"
   host: "github.social"
 
-# === Optional fields ===
-# Add an email with a mailto: hyperlink
-# email: aaaa@example.com
-# Add an email "image" for spam protection. With light and dark mode
-# emailImg: 
-#   dark: /img/dark_email.png
-#   light: /img/light_email.png
-
-# List your publications. The required fields are pdf, title, and image 
-# (which should be the image path). The other fields are optional.
 
 publications:
 
@@ -57,16 +47,18 @@ publications:
     title: "Trends in the Outcomes, Practice, and Law of Low-Tech Process-Based Restoration in Western Rangelands"
     date: 2024
     journal: Rangeland Ecology & Management
-    image: /PBR_fig1.png
-    citation: "@article{[citation_key],
-  title={[New Publication Title]},
-  author={[Author 1] and Loria, Kelly A and [Other Authors]},
-  journal={[Journal Name]},
-  volume={[Volume]},
-  number={[Issue]},
-  pages={[Pages]},
-  year={[Year]},
-  publisher={[Publisher]}
+    image: /PBR_fig2.png
+
+    citation: "@article{SCAMARDO2025344,
+  title = {Trends in the Outcomes, Practice, and Law of Low-Tech Process-Based Restoration in Western Rangelands},
+  journal = {Rangeland Ecology & Management},
+  volume = {98},
+  pages = {344-356},
+  year = {2025},
+  issn = {1550-7424},
+  doi = {https://doi.org/10.1016/j.rama.2024.08.032},
+  url = {https://www.sciencedirect.com/science/article/pii/S1550742424001623}, 
+  publisher={Science Direct}
 }"
     pdf: (/Scamardo2025.pdf)
     links:
