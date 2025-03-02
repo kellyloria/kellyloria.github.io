@@ -22,7 +22,7 @@ I’m currently a Ph.D. candidate working with the Blaszczak Freshwater Ecosyste
   </div>
 {{< /rawhtml >}}
 
-[Download my CV here](/Loria_CV_2025.pdf)
+[Download my CV here](Loria_CV_2025.pdf)
 
 [Link to github](https://github.com/kellyloria)
 
