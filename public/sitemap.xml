@@ -1,82 +1,134 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/beaver/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/climate-adaptation-science/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/low-tech-process-based-restoration/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rangeland/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/restoration/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/water-rights/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/biogeochemistry/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lake/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/metabolism/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stream/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tahoe/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/upstream-efficiency-and-downstream-productivity/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hydrology/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/declines-in-alpine-lake-ice/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lake-ice/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/past-work/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/long-term-apline-zooplankton-population-dynamics/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zooplankton/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dom/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/phytoplankton/</loc>
-    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url>
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <url>
+        <loc>http://localhost:1313/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/post/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/biogeochemistry/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/lake/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/metabolism/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/stream/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/tahoe/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/upstream-efficiency-and-downstream-productivity/</loc>
+        <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/beaver/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/climate-adaptation-science/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/low-tech-process-based-restoration/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/rangeland/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/restoration/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/water-rights/</loc>
+        <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/hydrology/</loc>
+        <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/nitrogen-availability-and-mountain-stream-metabolism/</loc>
+        <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/declines-in-alpine-lake-ice/</loc>
+        <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/lake-ice/</loc>
+        <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/past-work/</loc>
+        <lastmod>2021-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/long-term-apline-zooplankton-population-dynamics/</loc>
+        <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/zooplankton/</loc>
+        <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/comparative-ecological-characteristics-of-alpine-lakes/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/dom/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/tags/phytoplankton/</loc>
+        <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>http://localhost:1313/about/</loc>
+    </url>
+    
 </urlset>
