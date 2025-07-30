@@ -113,6 +113,3 @@ publications:
 Aquatic ecosystems integrate large scale climatological phenomena (e.g., warming and changing precipitation regimes) alongside catchment scale characteristics (e.g. nutrient and organic matter availability, land use, and evaporative demand) in ways that can alter aspects of aquatic ecosystem function (e.g. carbon cycling and energy fluxes, biogeochemical nutrient transport and transportation) that have important implications for future water and habitat quality.  
 
 I’m interested in evaluating temporal variation in aquatic ecosystem function to better understand how streams and lakes respond to multiple stressors. My work has involved a combination of high-frequency sensor deployments in streams and lakes, benthic stream and lake surveys, as well as time series, causal, and statistical modeling.  
-
-
-
