@@ -1,15 +1,16 @@
 +++
-date = "2024-01-01"
-title = "Nitrogen availability and mountain stream metabolism"
-slug = "Nitrogen availability and mountain stream metabolism"
-tags = ["Stream", "Biogeochemistry", "Metabolism", "Tahoe", "Hydrology"]
+date = "2025-07-15"
+title = "Mountain stream ecosystem metabolism and nitrogen cycling responses to hydroclimatic volatility"
+slug = "Mountain stream ecosystem metabolism and nitrogen cycling"
+tags = ["Stream", "Biogeochemistry", "Metabolism", "Tahoe", "Hydrology", "hydroclimatic volatility"]
 readingtime = false
 hideAuthor = true
 +++
 
 ### Biogeochemical linkages between nitrogen availability and mountain stream metabolism
 
-I’m examining the temporal synchrony of nitrogen supply-demand relationships across multiple reaches and mountain catchments to evaluate how shifts in nitrogen supply-demand relationships may affect in-stream ecological processes in streams like algal abundance and stream metabolism.
+This project investigates how variability in snowpack accumulation alters the synchrony of hydrologic processes (e.g., peak flow, and the onset of baseflow) and biological processes (e.g., nutrient uptake, assimilation, and fixation) that control nitrogen availability and demand in two mountain streams. By comparing two streams that represent opposite ends of the spectrum in watershed size, modeled runoff, and precipitation accumulation within the Lake Tahoe basin (Nevada/California USA) over dry and wet years, we found the larger less shaded stream supported higher metabolism fluxes and exhibited more efficient inorganic nitrogen (e.g., nitrate and ammonium) assimilation. However, nitrogen assimilation and retention were severely reduced during the wet year due to the delayed onset of baseflow, which caused most available nitrogen in either stream to be transported instead of transformed.
+
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
@@ -19,7 +20,6 @@ I’m examining the temporal synchrony of nitrogen supply-demand relationships a
   </div>
 {{< /rawhtml >}}
 
-Preliminary results suggest uptake length increased with nitrate supply and decreased with epilithic algal biomass. Uptake rates appear to increased with nitrate supply and surprisingly decreased with epilithic algal biomass. These results could suggest that summertime epilithic algal biomass is not necessarily limited by nitrate supply and is instead more governed by environmental forcing (water temperature and flow).
 
 
 {{< rawhtml >}}
@@ -30,10 +30,11 @@ Preliminary results suggest uptake length increased with nitrate supply and decr
   </div>
 {{< /rawhtml >}}
 
-This work has been presented at virtually at Freshwater Science in 2021 and at AGU Fall 2021 Meeting. Data collection will be complete in September 2023 for a total of nine seasonal rates of uptake per stream and species of nitrogen (NO3 or NH4). I will finish laboratory analysis of all samples by October, all uptake calculations and stream metabolism models by November, and have a manuscript prepared for submission by Fall of 2024.
+
+This work is currently in reveiw. Data will be avaible on EDI soon. 
 
 
-**Co-authors:** Heili Lowman, Jasmine Krause, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
+**Co-authors:** Heili Lowman, Laurel Genzoli, Jasmine Krause, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
