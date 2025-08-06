@@ -1,7 +1,7 @@
 +++
 date = "2025-01-20"
-title = "Upstream efficiency and downstream productivity"
-slug = "Upstream efficiency and downstream productivity"
+title = "Mountain streamflow and nearshore metabolism"
+slug = "Mountain streamflow and nearshore metabolism"
 tags = ["Lake", "Biogeochemistry", "Metabolism", "Tahoe", "Stream"]
 readingtime = false
 hideAuthor = true
@@ -19,11 +19,8 @@ hideAuthor = true
   </div>
 {{< /rawhtml >}}
 
-Current warming trends and the expected variability in the timing and intensity of precipitation in mountain regions could also alter the availability of key resources and as well as physical processes, with unknown effects on downstream ecosystem energy fluxes (i.e., primary productivity - GPP and ecosystem respiration - ER). Therefore, we set out to characterize seasonal rates of productivity along the nearshore of Lake Tahoe across multiple catchments that accumulate different amounts of precipitation and have unique flow regimes for three consecutive and extreme hydroclimatic years (2021 to 2023).
+This work examines how streamflow influences nearshore productivity in Lake Tahoe under contrasting wet and dry years, focusing on shorelines with varying inflow levels. By evaluating streamflow for shores with large, small, or no stream inflows (four locations across two shores) during two contrasting water years (one drought and one wet), this work showed how streamflow reduces water temperature, light availability, to indirectly influence nearshore metabolism in ways that varied with inflow size.  This work underscores how oligotrophic littoral productivity varies across shorelines and in response to hydrological conditions, with streamflow and precipitation exerting contrasting effects on metabolism depending on the proximity to inflowing streams.
 
-We deployed networks of dissolved oxygen sensors (three sensors per-shore) to create a large high resolution time series of modeled metabolism across four different nearshore (3 m deep) locations. Past work in Tahoe has focused on synoptic discrete measures of algal biomass and bottle incubations to estimate rates of GPP and ER. Here we sought to capture relative quick nearshore responses to precipitation events as well as seasonal regimes by capturing daily GPP and ER, weather, and streamflow dynamics.
-
-Areas near inflowing streams tended to be more heterotrophic, while areas away from streams appeared more autotrophic. Intra-annually, we typically observed elevated productivity at all locations in the spring and late fall likely following patterns of turbulent lake mixing and carbon and nutrients distributions. During 2023 the water yield increased by 83% at both west and east shore creeks and lake level increased by up to 1.65 m. We additionally observed metabolic regimes with higher annual GPP during dry (2021) relative to wet (2023) hydroclimatic conditions. This trend supports similar work in mountain lakes where drier years (2021) favored autotrophic metabolism, while wetter hydroclimatic conditions (2023) favored heterotrophic metabolism. We expect that all nearshore locations in 2023 were subject to prolonged run-off conditions (e.g. heightened material transport as well as enhanced turbulent mixing) following the historic winter and ultimately favored heterotrophic conditions in the nearshore. 
 
 **Co-authors:** Heili Lowman, Jasmine Krause, Leon Katon, Ramon Naranjo, Facundo Scordo, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
 
@@ -43,16 +40,23 @@ Areas near inflowing streams tended to be more heterotrophic, while areas away f
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/NS_ppT_Fig2.png" alt="Your Image Alt Text" style="max-width:69%; height:auto;">
+    <img src="/Fig4_SEM.png" alt="Your Image Alt Text" style="max-width:69%; height:auto;">
   </div>
   <figcaption>
-      <h6 style="font-size: 12px;">Results from Bayesian SEM for NEP in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup>  at time t at BW (in blue), GB (in gold), SS (in green), and SH (in orange) for a subset of overlapping data from all four sites (February to September 2023). a) The SEM structure for how NEP may be a function of precipitation, lake temperature, benthic light. Where color corresponds to climate processes like precipitation (dark blue for lake processes and gray for autoregressive processes), and arrow weight represents relationship strength for each parameter. b) The posterior estimates generated from each SEM parameter color-coded by shore, where mean posterior estimates are indicated by vertical lines and the black vertical line depicts zero.</h6>
+      <h6 style="font-size: 12px;">Path diagram representing the Piecewise Bayesian structural equation model (SEM) of how metabolism (metab., as either gross primary productivity [GPP] or ecosystem respiration [|ER|]) is a function of the day prior’s metabolism (AR as GPPt-1 or |ER|t-1), benthic water temperature (temp.), benthic light, or streamflow (flow), while accounting for how benthic water temperature and benthic light could also be functions as both streamflow and precipitation (as PPT). The box color for each parameter represents the type of process associated with a given parameter (light blue for stream, dark blue for lake, teal for climate, and gray for autoregressive). b & c) Posterior estimates of path coefficients from SEMs for b) GPP in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup> or c) |ER| in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup> at shore locations with either a large stream inflow (BW in blue), a small stream inflow, (GB in gold), or isolated from stream inflows (SS in green). Water year is represented by fill color transparent for drought (2022) or filled for wet (2023).</h6>
   </figcaption>
 </figure>
 {{< /rawhtml >}}
 
 
 Stay tuned for publication updates! Data available in 2025.
+
+**[Link to article](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70157) published Limnology and Oceanography.**
+**[Download .pdf of article](/Loria_2025_LO70157.pdf)**
+
+**[Download data associated with the poject](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1975.1)**
+
+
 
 
 **[Download .pdf of slides from MtnClim 24 presentation](/Loria_MtnClim24_slides.pdf)**
