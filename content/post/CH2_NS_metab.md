@@ -12,34 +12,29 @@ hideAuthor = true
 
 
 {{< rawhtml >}}
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1%;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1%;">
 
   <!-- Panel 1 -->
-  <div style="flex: 1 1 37%; max-width: 37%;">
-    <img src="/lake1.jpg" alt="Lake view" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
-      Lake shoreline area showing sampling site.
-    </figcaption>
+  <div style="flex: 1 1 30%; max-width: 32%;">
+    <img src="/lake1.jpg" alt="Lake view" style="width: 100%; height: 250px; object-fit: cover;">
   </div>
 
   <!-- Panel 2 -->
-  <div style="flex: 1 1 37%; max-width: 37%;">
-    <img src="/GBNS3_miniDOT.png" alt="Sensor Data Graph" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
-      Temperature and dissolved oxygen time series from miniDOT sensor at GBNS3.
-    </figcaption>
+  <div style="flex: 1 1 30%; max-width: 32%;">
+    <img src="/GBNS3_miniDOT.png" alt="Monitoring equipment" style="width: 100%; height: 250px; object-fit: cover;">
   </div>
 
   <!-- Panel 3 -->
-  <div style="flex: 1 1 25%; max-width: 15%;">
-    <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: auto;">
+  <div style="flex: 1 1 30%; max-width: 32%;">
+    <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
-      Dive picture of the deeper littoral network near Blackwood Creek.
+      Dive picture of the deeper littoral network near Blackwood Creek. 
     </figcaption>
   </div>
 
 </div>
 {{< /rawhtml >}}
+
 
 
 This work examines how streamflow influences nearshore productivity in Lake Tahoe under contrasting wet and dry years, focusing on shorelines with varying inflow levels. By evaluating streamflow for shores with large, small, or no stream inflows (four locations across two shores) during two contrasting water years (one drought and one wet), this work showed how streamflow reduces water temperature, light availability, to indirectly influence nearshore metabolism in ways that varied with inflow size.  This work underscores how oligotrophic littoral productivity varies across shorelines and in response to hydrological conditions, with streamflow and precipitation exerting contrasting effects on metabolism depending on the proximity to inflowing streams.
