@@ -33,6 +33,40 @@ publications:
 
   - 
     authors:
+        - name: Loria, K.
+        - name: Lowman, H. 
+        - name: Krause, J.
+        - name: Katona, L.
+        - name: Naranjo, R.
+        - name: Scordo, F.
+        - name: Harpold, A.
+        - name: Chandra, S.
+        - name: Blaszczak, J. 
+    title: "The influence of mountain streamflow on nearshore ecosystem metabolism in a large, oligotrophic lake across a drought and a wet year"
+    # Will write "In ${journal}, ${date}"
+    date: 2025
+    journal: Limnology and Oceanography
+    image: /Loria_2025_highlight.png
+    # A bibtex (or any other format) citation that people can copy directly from the website.
+    citation: "@article{https://doi.org/10.1002/lno.70157,
+author = {Loria, Kelly and Lowman, Heili and Krause, Jasmine and Katona, Leon and Naranjo, Ramon and Scordo, Facundo and Harpold, Adrian and Chandra, Sudeep and Blaszczak, Joanna R.},
+title = {The influence of mountain streamflow on nearshore ecosystem metabolism in a large, oligotrophic lake across a drought and a wet year},
+journal = {Limnology and Oceanography},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1002/lno.70157}"
+    pdf: (/Loria_2025_LO70157.pdf)
+    # A list of link that will appear as badges at the bottom of the publication.
+    links:
+      -
+        name: Main URL
+        url: "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.70157"
+    # A description for the paper.
+    description: This work examines how streamflow influences nearshore productivity in Lake Tahoe under contrasting wet and dry years, focusing on shorelines with varying inflow levels. By evaluating streamflow for shores with large, small, or no stream inflows (four locations across two shores) during two contrasting water years (one drought and one wet), this work showed how streamflow reduces water temperature, light availability, to indirectly influence nearshore metabolism in ways that varied with inflow size.  This work underscores how oligotrophic littoral productivity varies across shorelines and in response to hydrological conditions, with streamflow and precipitation exerting contrasting effects on metabolism depending on the proximity to inflowing streams.
+
+  - 
+    authors:
         - name: Scamardo, J.
         - name: Munger, W.
         - name: Loria, K. 
@@ -69,8 +103,6 @@ publications:
         name: ResearchGate
         url: https://www.researchgate.net/publication/385925854_Trends_in_the_Outcomes_Practice_and_Law_of_Low-Tech_Process-Based_Restoration_in_Western_Rangelands
     description: Low tech process-based restoration (LTPBR) is increasingly used to improve river corridor resilience to diverse stressors introduced by changing land use, climate, and water usage. However, the future of LTPBR depends on multiple physical, ecological, and social factors, including the influence of water availability on LTPBR outcomes and the legal capacity for future restoration in water-limited environments. Trends suggest that LTPBR could provide expected outcomes across western rangelands even amid changing water availability. Changes to state-level water laws and perceptions of social benefits of LTPBR could support the expansion of stream restoration in rangeland streams.
-
-
 
 
 
