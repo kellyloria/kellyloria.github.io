@@ -9,15 +9,18 @@ hideAuthor = true
 
 ### Biogeochemical linkages between nitrogen availability and mountain stream metabolism
 
+
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/BWU_algea1.JPG" alt="Your Image Alt Text" style="max-width: 60%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
-      Algea at Blackwood Creek the upper station location in September 2021.  
+<p class="speshal-fancy-custom"></p>
+
+<div style="display: flex; justify-content: center;">
+  <figure style="max-width: 60%;">
+    <img src="/BWU_algea1.JPG" alt="Algae at Blackwood Creek" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
+      Algae at Blackwood Creek, upper station location in September 2021.
     </figcaption>
-  </div>
+  </figure>
+</div>
 {{< /rawhtml >}}
 
 
@@ -29,10 +32,11 @@ This project investigates how variability in snowpack accumulation alters the sy
   </p>
   <div style="display: flex; justify-content: space-between;">
     <img src="/NCycle_diagram.png" alt="Your Image Alt Text" style="max-width: 70%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
       Conceptual diagram of nitrogen dynamics in creeks.  
     </figcaption>
-  </div>
+  </figure>
+</div>
 {{< /rawhtml >}}
 
 
@@ -42,10 +46,11 @@ This project investigates how variability in snowpack accumulation alters the sy
   </p>
   <div style="display: flex; justify-content: space-between;">
     <img src="/CH1_biogechem_prelim result.png" alt="Your Image Alt Text" style="max-width: 90%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
      Kernal density plots of ecosystem respiration and gross primary productivity from dry (2021 and 2022) and wet (2023) water years at Blackwood and Glenbrooks Creeks.
     </figcaption>
-  </div>
+  </figure>
+</div>
 {{< /rawhtml >}}
 
 
