@@ -38,7 +38,7 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
   <!-- Right Panel -->
   <div style="flex: 1 1 45%; max-width: 45%;">
-    <img src="/Dive_Photo.jpeg" alt="Dive Photo" style="width: 100%; height: auto;">
+    <img src="/Dive_Photo.png" alt="Dive Photo" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Dive picture of the deeper littoral network near Blackwood Creek. 
     </figcaption>
