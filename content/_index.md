@@ -56,7 +56,8 @@ volume = {n/a},
 number = {n/a},
 pages = {},
 doi = {https://doi.org/10.1002/lno.70157}"
-    pdf: (/Loria_2025_LO70157.pdf)
+    url: /mountain-streamflow-and-nearshore-metabolism/
+
     # A list of link that will appear as badges at the bottom of the publication.
     links:
       -
