@@ -10,14 +10,37 @@ hideAuthor = true
 ## **Upstream efficiency and downstream productivity:** The influence of mountain streamflow on nearshore metabolism in a large, oligotrophic lake across drought and wet years.
 
 
+
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/lake1.jpg" alt="Your Image Alt Text" style="max-width:45%; height:; auto;margin-right: 1%;">
-    <img src="/GBNS3_miniDOT.png" alt="Your Image Alt Text" style="max-width:40%; height:; auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1%;">
+
+  <!-- Panel 1 -->
+  <div style="flex: 1 1 37%; max-width: 32%;">
+    <img src="/lake1.jpg" alt="Lake view" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Lake shoreline area showing sampling site.
+    </figcaption>
   </div>
+
+  <!-- Panel 2 -->
+  <div style="flex: 1 1 37%; max-width: 32%;">
+    <img src="/GBNS3_miniDOT.png" alt="Sensor Data Graph" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Temperature and dissolved oxygen time series from miniDOT sensor at GBNS3.
+    </figcaption>
+  </div>
+
+  <!-- Panel 3 -->
+  <div style="flex: 1 1 25%; max-width: 32%;">
+    <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Dive picture of the deeper littoral network near Blackwood Creek.
+    </figcaption>
+  </div>
+
+</div>
 {{< /rawhtml >}}
+
 
 This work examines how streamflow influences nearshore productivity in Lake Tahoe under contrasting wet and dry years, focusing on shorelines with varying inflow levels. By evaluating streamflow for shores with large, small, or no stream inflows (four locations across two shores) during two contrasting water years (one drought and one wet), this work showed how streamflow reduces water temperature, light availability, to indirectly influence nearshore metabolism in ways that varied with inflow size.  This work underscores how oligotrophic littoral productivity varies across shorelines and in response to hydrological conditions, with streamflow and precipitation exerting contrasting effects on metabolism depending on the proximity to inflowing streams.
 
@@ -27,7 +50,6 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
 {{< rawhtml >}}
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 1%;">
-  
   <!-- Left Panel -->
   <div style="flex: 1 1 70; max-width: 70%;">
     <img src="/Fig4_SEM.png" alt="Diagram showing Piecewise Bayesian SEM" style="width: 100%; height: auto;">
@@ -35,15 +57,6 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
       Path diagram representing the Piecewise Bayesian structural equation model (SEM) of how metabolism (metab., as either gross primary productivity [GPP] or ecosystem respiration [|ER|]) is a function of the day prior’s metabolism (AR as GPPt-1 or |ER|t-1), benthic water temperature (temp.), benthic light, or streamflow (flow), while accounting for how benthic water temperature and benthic light could also be functions as both streamflow and precipitation (as PPT). The box color for each parameter represents the type of process associated with a given parameter (light blue for stream, dark blue for lake, teal for climate, and gray for autoregressive).
     </figcaption>
   </div>
-
-  <!-- Right Panel -->
-  <div style="flex: 1 1 25%; max-width: 25%;">
-    <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
-      Dive picture of the deeper littoral network near Blackwood Creek. 
-    </figcaption>
-  </div>
-
 </div>
 {{< /rawhtml >}}
 
