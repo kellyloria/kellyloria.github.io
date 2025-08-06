@@ -15,17 +15,23 @@ hideAuthor = true
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 1%;">
 
   <!-- Panel 1 -->
-  <div style="flex: 1 1 30%; max-width: 32%;">
+  <div style="flex: 1 1 30%; max-width: 38%;">
     <img src="/lake1.jpg" alt="Lake view" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Shoreline at Blackwood Creek in March 2022. 
+    </figcaption>
   </div>
 
   <!-- Panel 2 -->
-  <div style="flex: 1 1 30%; max-width: 32%;">
+  <div style="flex: 1 1 30%; max-width: 38%;">
     <img src="/GBNS3_miniDOT.png" alt="Monitoring equipment" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Dive picture of the deeper littoral network near Blackwood Creek. 
+    </figcaption>
   </div>
 
   <!-- Panel 3 -->
-  <div style="flex: 1 1 30%; max-width: 32%;">
+  <div style="flex: 1 1 30%; max-width: 25%;">
     <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Dive picture of the deeper littoral network near Blackwood Creek. 
