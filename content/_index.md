@@ -46,7 +46,7 @@ publications:
     # Will write "In ${journal}, ${date}"
     date: 2025
     journal: Limnology and Oceanography
-    image: /Loria_2025_highlight.png
+    image: /GPTempDownload.png
     # A bibtex (or any other format) citation that people can copy directly from the website.
     citation: "@article{https://doi.org/10.1002/lno.70157,
 author = {Loria, Kelly and Lowman, Heili and Krause, Jasmine and Katona, Leon and Naranjo, Ramon and Scordo, Facundo and Harpold, Adrian and Chandra, Sudeep and Blaszczak, Joanna R.},
@@ -62,6 +62,9 @@ doi = {https://doi.org/10.1002/lno.70157}"
       -
         name: Main URL
         url: "https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.1002/lno.70157"
+      -
+        name: ResearchGate
+        url: https://www.researchgate.net/publication/394346023_The_influence_of_mountain_streamflow_on_nearshore_ecosystem_metabolism_in_a_large_oligotrophic_lake_across_a_drought_and_a_wet_year
     # A description for the paper.
     description: This work examines how streamflow influences nearshore productivity in Lake Tahoe under contrasting wet and dry years, focusing on shorelines with varying inflow levels. By evaluating streamflow for shores with large, small, or no stream inflows (four locations across two shores) during two contrasting water years (one drought and one wet), this work showed how streamflow reduces water temperature, light availability, to indirectly influence nearshore metabolism in ways that varied with inflow size.  This work underscores how oligotrophic littoral productivity varies across shorelines and in response to hydrological conditions, with streamflow and precipitation exerting contrasting effects on metabolism depending on the proximity to inflowing streams.
 
