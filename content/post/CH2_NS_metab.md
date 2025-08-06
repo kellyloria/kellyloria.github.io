@@ -15,7 +15,7 @@ hideAuthor = true
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1%;">
 
   <!-- Panel 1 -->
-  <div style="flex: 1 1 37%; max-width: 32%;">
+  <div style="flex: 1 1 37%; max-width: 37%;">
     <img src="/lake1.jpg" alt="Lake view" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Lake shoreline area showing sampling site.
@@ -23,7 +23,7 @@ hideAuthor = true
   </div>
 
   <!-- Panel 2 -->
-  <div style="flex: 1 1 37%; max-width: 32%;">
+  <div style="flex: 1 1 37%; max-width: 37%;">
     <img src="/GBNS3_miniDOT.png" alt="Sensor Data Graph" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Temperature and dissolved oxygen time series from miniDOT sensor at GBNS3.
@@ -31,7 +31,7 @@ hideAuthor = true
   </div>
 
   <!-- Panel 3 -->
-  <div style="flex: 1 1 25%; max-width: 32%;">
+  <div style="flex: 1 1 25%; max-width: 15%;">
     <img src="/Dive_Photo1.png" alt="Dive Photo" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Dive picture of the deeper littoral network near Blackwood Creek.
@@ -50,8 +50,7 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
 {{< rawhtml >}}
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 1%;">
-  <!-- Left Panel -->
-  <div style="flex: 1 1 70; max-width: 70%;">
+  <div style="flex: 1 1 100; max-width: 100%;">
     <img src="/Fig4_SEM.png" alt="Diagram showing Piecewise Bayesian SEM" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem;">
       Path diagram representing the Piecewise Bayesian structural equation model (SEM) of how metabolism (metab., as either gross primary productivity [GPP] or ecosystem respiration [|ER|]) is a function of the day prior’s metabolism (AR as GPPt-1 or |ER|t-1), benthic water temperature (temp.), benthic light, or streamflow (flow), while accounting for how benthic water temperature and benthic light could also be functions as both streamflow and precipitation (as PPT). The box color for each parameter represents the type of process associated with a given parameter (light blue for stream, dark blue for lake, teal for climate, and gray for autoregressive).
