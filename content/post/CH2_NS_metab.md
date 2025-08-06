@@ -1,8 +1,8 @@
 +++
-date = "2025-01-20"
+date = "2025-08-06"
 title = "Mountain streamflow and nearshore metabolism"
 slug = "Mountain streamflow and nearshore metabolism"
-tags = ["Lake", "Biogeochemistry", "Metabolism", "Tahoe", "Stream"]
+tags = ["Lake", "Biogeochemistry", "Metabolism", "Tahoe", "Stream", "Nearshore", "Snowmelt", "Net ecosystem productivity", "Ecosystem function", "Structural equation modeling"]
 readingtime = false
 hideAuthor = true
 +++
@@ -24,6 +24,40 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
 **Co-authors:** Heili Lowman, Jasmine Krause, Leon Katon, Ramon Naranjo, Facundo Scordo, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
 
+
+{{< rawhtml >}}
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 1%;">
+  
+  <!-- Left Panel -->
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/GLV_zoop.png" alt="Diagram showing Piecewise Bayesian SEM" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Path diagram representing the Piecewise Bayesian structural equation model (SEM) of how metabolism (metab., as either gross primary productivity [GPP] or ecosystem respiration [|ER|]) is a function of the day prior’s metabolism (AR as GPPt-1 or |ER|t-1), benthic water temperature (temp.), benthic light, or streamflow (flow), while accounting for how benthic water temperature and benthic light could also be functions as both streamflow and precipitation (as PPT). The box color for each parameter represents the type of process associated with a given parameter (light blue for stream, dark blue for lake, teal for climate, and gray for autoregressive).
+    </figcaption>
+  </div>
+
+  <!-- Right Panel -->
+  <div style="flex: 1 1 45%; max-width: 45%;">
+    <img src="/Dive_Photo.jpeg" alt="Dive Photo" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem;">
+      Dive picture of the deeper littoral network near Blackwood Creek. 
+    </figcaption>
+  </div>
+
+</div>
+{{< /rawhtml >}}
+
+
+
+
+**[Link to article](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70157) published Limnology and Oceanography.**
+**[Download .pdf of article](/Loria_2025_LO70157.pdf)**
+
+**[Download data associated with the poject](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1975.1)**
+
+
+
+
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
@@ -35,31 +69,7 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 </figure>
 {{< /rawhtml >}}
 
-
-
-{{< rawhtml >}}
-<figure>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/Fig4_SEM.png" alt="Your Image Alt Text" style="max-width:69%; height:auto;">
-  </div>
-  <figcaption>
-      <h6 style="font-size: 12px;">Path diagram representing the Piecewise Bayesian structural equation model (SEM) of how metabolism (metab., as either gross primary productivity [GPP] or ecosystem respiration [|ER|]) is a function of the day prior’s metabolism (AR as GPPt-1 or |ER|t-1), benthic water temperature (temp.), benthic light, or streamflow (flow), while accounting for how benthic water temperature and benthic light could also be functions as both streamflow and precipitation (as PPT). The box color for each parameter represents the type of process associated with a given parameter (light blue for stream, dark blue for lake, teal for climate, and gray for autoregressive). b & c) Posterior estimates of path coefficients from SEMs for b) GPP in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup> or c) |ER| in nmol O<sub>2</sub> m<sup>-3</sup> d<sup>-1</sup> at shore locations with either a large stream inflow (BW in blue), a small stream inflow, (GB in gold), or isolated from stream inflows (SS in green). Water year is represented by fill color transparent for drought (2022) or filled for wet (2023).</h6>
-  </figcaption>
-</figure>
-{{< /rawhtml >}}
-
-
-Stay tuned for publication updates! Data available in 2025.
-
-**[Link to article](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70157) published Limnology and Oceanography.**
-**[Download .pdf of article](/Loria_2025_LO70157.pdf)**
-
-**[Download data associated with the poject](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1975.1)**
-
-
-
+*Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
 
 **[Download .pdf of slides from MtnClim 24 presentation](/Loria_MtnClim24_slides.pdf)**
 
-
-*Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
