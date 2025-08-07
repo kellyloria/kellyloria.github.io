@@ -14,7 +14,7 @@ hideAuthor = true
 <p class="speshal-fancy-custom"></p>
 
 <div style="display: flex; justify-content: center;">
-  <figure style="max-width: 60%;">
+  <figure style="max-width: 80%;">
     <img src="/BWU_algea1.JPG" alt="Algae at Blackwood Creek" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
       Algae at Blackwood Creek, upper station location in September 2021.
@@ -30,8 +30,9 @@ This project investigates how variability in snowpack accumulation alters the sy
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
   </p>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/NCycle_diagram.png" alt="Your Image Alt Text" style="max-width: 70%; height: auto;">
+<div style="display: flex; justify-content: center;">
+  <figure style="max-width: 80%;">
+    <img src="/NCycle_diagram.png" alt="Your Image Alt Text" style="max-width: 80%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
       Conceptual diagram of nitrogen dynamics in creeks.  
     </figcaption>
@@ -41,10 +42,12 @@ This project investigates how variability in snowpack accumulation alters the sy
 
 
 
+
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
   </p>
   <div style="display: flex; justify-content: space-between;">
+    <figure style="max-width: 90%;">
     <img src="/CH1_biogechem_prelim result.png" alt="Your Image Alt Text" style="max-width: 90%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
      Kernal density plots of ecosystem respiration and gross primary productivity from dry (2021 and 2022) and wet (2023) water years at Blackwood and Glenbrooks Creeks.
@@ -62,3 +65,14 @@ This work is currently in reveiw. Data will be avaible on EDI soon.
 
 
 *Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Leon Katona, Rob Miller, Meredith Brehob, Helen Lei, Ian Halterman, Molly Ferro, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
+
+Funding for this work was provided by the National Science Foundation (NSF) award OIA-2019528 and the Nevada Division of State Lands. Kelly Loria was supported by an NSF Graduate Research Fellowship (2020000930863). 
+
+
+{{< rawhtml >}}
+<figure>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/supporting_icons.png" alt="Your Image Alt Text" style="max-width:35%; height:auto;">
+  </div>
+</figure>
+{{< /rawhtml >}}

@@ -92,7 +92,7 @@ This work was supported by the National Science Foundation (NSF) under award OIA
 {{< rawhtml >}}
 <figure>
   <div style="display: flex; justify-content: space-between;">
-    <img src="/supporting_icons.png" alt="Your Image Alt Text" style="max-width:25%; height:auto;">
+    <img src="/supporting_icons.png" alt="Your Image Alt Text" style="max-width:35%; height:auto;">
   </div>
 </figure>
 {{< /rawhtml >}}
