@@ -84,7 +84,13 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 </figure>
 {{< /rawhtml >}}
 
-*Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
+
+
+*Thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)), Rob Miller, Meredith Brehob, Helen Lei, Taryn Elliott, Ian Halterman, Molly Ferro, Keenan Seto, Wubneh Belete Abebe, Rija Masroor, Colette Berkenfield, Robert Padan, Emily Burt, and Dillon Ragar, who helped collect and process the survey data.* 
+
+*Thanks to Dr. Robert O. Hall and Dr. Adam Ward at the Flathead Lake Biological Station and the H.J. Andrews Experimental Forest, respectively, for their expert technical guidance and support in characterizing gas exchange measurements.* 
+
+*Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
 
 This work was supported by the National Science Foundation (NSF) under award OIA-2019528 and by the Nevada Division of State Lands. Kelly Loria was supported by an NSF Graduate Research Fellowship (No. 2020000930863). Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. 
 
