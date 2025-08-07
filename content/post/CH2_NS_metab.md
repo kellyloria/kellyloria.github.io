@@ -7,7 +7,7 @@ readingtime = false
 hideAuthor = true
 +++
 
-## **Upstream efficiency and downstream productivity:** The influence of mountain streamflow on nearshore metabolism in a large, oligotrophic lake across drought and wet years.
+## The influence of mountain streamflow on nearshore metabolism in a large, oligotrophic lake across drought and wet years.
 
 
 
@@ -64,10 +64,12 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
 
 **[Link to article](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70157) published Limnology and Oceanography.**
+
 **[Download .pdf of article](/Loria_2025_LO70157.pdf)**
 
 **[Download data associated with the poject](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1975.1)**
 
+**[Download .pdf of slides from MtnClim 24 presentation](/Loria_MtnClim24_slides.pdf)**
 
 
 
@@ -84,5 +86,13 @@ This work examines how streamflow influences nearshore productivity in Lake Taho
 
 *Special thanks to the Blaszczak field and laboratory team members ([Link](https://blaszczaklab.weebly.com/)) Rob Miller, Helen Lei, Taryn Elliot, Ian Halterman, and Keenan Seto, and (Dillon Ragar), who helped collect and process the survey data; The University of Reno’s Global Water Center ([Link](https://www.unr.edu/water-center)) and Chandra lab members ([Link](http://aquaticecosystemslab.org/)), especially Emily Carlson, Erin Suenaga, Elizabeth Everest, and Zach Bess; Tahoe National Forest; and the residents of Glenbrook Nevada, especially Gary and Susan Clemons.* 
 
-**[Download .pdf of slides from MtnClim 24 presentation](/Loria_MtnClim24_slides.pdf)**
+This work was supported by the National Science Foundation (NSF) under award OIA-2019528 and by the Nevada Division of State Lands. Kelly Loria was supported by an NSF Graduate Research Fellowship (No. 2020000930863). Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. 
 
+
+{{< rawhtml >}}
+<figure>
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/supporting_icons.png" alt="Your Image Alt Text" style="max-width:25%; height:auto;">
+  </div>
+</figure>
+{{< /rawhtml >}}
