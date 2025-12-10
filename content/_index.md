@@ -20,7 +20,7 @@ personal_title: "Postdoctoral researcher"
 address: 
   - 
     name: The Desert Research Institute 
-    street: <a href=\"https://www.dri.edu/\">The Desert Research Institute website</a>
+    street: "<a href=\"https://www.dri.edu/\">The Desert Research Institute website</a>"
     email: kellyloria at gmail.com
  
 ## how to add?
