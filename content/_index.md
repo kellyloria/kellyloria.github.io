@@ -15,12 +15,12 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Post doctoral researcher"
+personal_title: "Postdoctoral researcher"
 # An address (you can list multiple)
 address: 
   - 
     name: The Desert Research Institute 
-    street: {https://https://www.dri.edu/}
+    street: <a href=\"https://www.dri.edu/\">The Desert Research Institute website</a>
     email: kellyloria at gmail.com
  
 ## how to add?
