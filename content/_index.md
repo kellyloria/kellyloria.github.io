@@ -17,11 +17,11 @@ imgname:
 # A title (job title or "Researcher", "PhD student", etc.)
 personal_title: "Postdoctoral researcher"
 # An address (you can list multiple)
+#[Desert Research Institute](https://www.dri.edu/)
 address: 
-  - 
-    name: The Desert Research Institute 
-    street: "<a href=\"https://www.dri.edu/\">The Desert Research Institute website</a>"
-    email: kellyloria at gmail.com
+  -  
+    street: Desert Research Institute, Reno NV
+#   email: kellyloria at gmail.com
  
 ## how to add?
 github.parm:
