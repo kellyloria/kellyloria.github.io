@@ -15,7 +15,7 @@ hideAuthor = true
 
 <div style="display: flex; justify-content: center;">
   <figure style="max-width: 80%;">
-    <img src="/wildfire_watershed_conceptual_figure.JPG" alt="Conceptual diagram of how fire can alter catchment dynamics" style="width: 100%; height: auto;">
+    <img src="/wildfire_watershed_conceptual_figure.jpg" alt="Conceptual diagram of how fire can alter catchment dynamics" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
       Conceptual diagram of how wildfire can alter instream water quality dynamics.
     </figcaption>
@@ -35,7 +35,7 @@ Here, we present water quality responses from stream networks affected by the Da
   </p>
   <div style="display: flex; justify-content: space-between;">
     <figure style="max-width: 90%;">
-    <img src="/Davis_fire_baseflow_plot.JPG" alt="baseflow" style="max-width: 90%; height: auto;">
+    <img src="/Davis_fire_baseflow_plot.jpg" alt="baseflow" style="max-width: 90%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
        Catchment normalized streamflow (left y axis, lines in m3 s-1 km-1) and precipitation (right y axis, in mm) regimes at each surveyed reach. Points represent individual sampling events at each reach; the horizontal dashed line represents the date the fire was contained (September 25, 2024). Days associated with precipitation that increased streamflow are highlighted by vertical grey bars.
     </figcaption>

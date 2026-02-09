@@ -11,7 +11,7 @@ I have a special interest in mountain ecosystems and received my B.A. in Ecology
 
 I recieved my Ph.D. in Ecology, Evolution, and Conservation Biology at the University of Nevada Reno. My     dissertation work with the Blaszczak Freshwater Ecosystem Ecology Lab investigated how hydroclimate variability, water quality, and aquatic ecosystem energy fluxes (i.e., primary productivity [GPP], ecosystem respiration [ER], and net ecosystem productivity [NEP]) in both streams and lakes can vary across dry and wet conditions, different catchment characteristics, and streamflow regimes. I’m especially interested in how climate change may cause phenological mismatches between physical signals and biogeochemical responses in aquatic ecosystems.
 
-I'm currently a post doctoral researcher at the Desert Research Institute working Monica Arienzo and Brittany Kruger assesing water quality responses from stream networks impacted by the Davis Fire in the Washoe Valley region south of Reno, Nevada, USA. 
+I'm currently a post doctoral researcher at the Desert Research Institute working Monica Arienzo, Brittany Kruger, and Mark Hausner assesing water quality responses from stream networks impacted by the Davis Fire in the Washoe Valley region south of Reno, Nevada, USA. 
 
 
 {{< rawhtml >}}
