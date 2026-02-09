@@ -1,5 +1,5 @@
 +++
-date = "2025-07-15"
+date = "2026-02-05"
 title = "Mountain stream ecosystem metabolism and nitrogen cycling responses to hydroclimatic volatility"
 slug = "Mountain stream ecosystem metabolism and nitrogen cycling"
 tags = ["Stream", "Biogeochemistry", "Metabolism", "Tahoe", "Hydrology", "hydroclimatic volatility"]
@@ -57,7 +57,7 @@ This project investigates how variability in snowpack accumulation alters the sy
 {{< /rawhtml >}}
 
 
-This work is currently in reveiw. Data will be avaible on EDI soon. 
+This work is currently in reveiw with JGR: Biogeosciences. Data is currently availble ([Link](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.2264.1)) 
 
 
 **Co-authors:** Heili Lowman, Laurel Genzoli, Jasmine Krause, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
