@@ -42,6 +42,24 @@ This project investigates how variability in snowpack accumulation alters the sy
 
 
 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+  </p>
+<div style="display: flex; justify-content: center;">
+  <figure style="max-width: 80%;">
+    <img src="/hydroclimate_variation.png" alt="Hydroclimate variation" style="max-width: 80%; height: auto;">
+    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
+      How streamflow (lines) and precipitation as snow water equivalent (SWE, shaded bars) in changed from dry (2021 and 2022) to wet (2023) water years.  
+    </figcaption>
+  </figure>
+</div>
+{{< /rawhtml >}}
+
+Key Points
+- In response to a dry-to-wet hydroclimatic transition, the onset of baseflow in mountain streams was delayed by approximately 40 days.
+- The delay in baseflow onset in the wet year reduced cumulative gross primary productivity by over 90% in both streams.
+- Nitrogen demand dropped by up to 80% during the wet year in the large stream, while ammonium export rose by more than 100% in the small stream.
+
 
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
@@ -57,7 +75,7 @@ This project investigates how variability in snowpack accumulation alters the sy
 {{< /rawhtml >}}
 
 
-This work is currently in reveiw with JGR: Biogeosciences. Data is currently availble ([Link](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.2264.1)) 
+This work is currently in reveiw with JGR: Biogeosciences. Data is currently availble [Link](https://doi.org/10.6073/pasta/ef32b986806f1d12e60494899de726f0) and analyses available at [Link](https://zenodo.org/records/18672729)
 
 
 **Co-authors:** Heili Lowman, Laurel Genzoli, Jasmine Krause, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 
