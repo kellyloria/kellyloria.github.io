@@ -14,8 +14,8 @@ hideAuthor = true
 <p class="speshal-fancy-custom"></p>
 
 <div style="display: flex; justify-content: center;">
-  <figure style="max-width: 80%;">
-    <img src="/BW_creek_seasonal_change.png" alt="Algae at Blackwood Creek" style="width: 100%; height: auto;">
+  <figure style="max-width: 90%;">
+    <img src="/BW_creek_seasonal_change.png" alt="Algae at Blackwood Creek" style="width: 90%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
       Blackwood Creek durng summer 2021 and winter 2023.
     </figcaption>
@@ -33,10 +33,8 @@ This project investigated how variability in snowpack accumulation alters the sy
 
 
 {{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
+<figure>
   <div style="display: flex; justify-content: space-between;">
-    <figure style="max-width: 90%;">
     <img src="/JGR_biogeosciences_conceptual_fig.png" alt="Your Image Alt Text" style="max-width: 90%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
      Hydroclimatic variabilityinfluencedgrowing season length, ecosystem metabolism,andnitrogen cyclingin the largeandthe small mountainstreams. Panel (a) illustrates how differences in light availability, channel morphology, and hydrologic conditions contributed to contrasting patterns of primary production, organic matter accumulation,and nitrogenprocessing between the two streams. Panel(b) illustrates the expected annual timing of the growing season in mountain streams and how hydroclimatic variability can shift its timing by altering snowpack duration and the onset of snowmelt and peakflow. 
