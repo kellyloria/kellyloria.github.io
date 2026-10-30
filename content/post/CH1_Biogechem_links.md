@@ -15,9 +15,9 @@ hideAuthor = true
 
 <div style="display: flex; justify-content: center;">
   <figure style="max-width: 80%;">
-    <img src="/BWU_algea1.JPG" alt="Algae at Blackwood Creek" style="width: 100%; height: auto;">
+    <img src="/BW_creek_seasonal_change.PNG" alt="Algae at Blackwood Creek" style="width: 100%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
-      Algae at Blackwood Creek, upper station location in September 2021.
+      Blackwood Creek durng summer 2021 and winter 2023.
     </figcaption>
   </figure>
 </div>
@@ -27,18 +27,6 @@ hideAuthor = true
 This project investigates how variability in snowpack accumulation alters the synchrony of hydrologic processes (e.g., peak flow, and the onset of baseflow) and biological processes (e.g., nutrient uptake, assimilation, and fixation) that control nitrogen availability and demand in two mountain streams. By comparing two streams that represent opposite ends of the spectrum in watershed size, modeled runoff, and precipitation accumulation within the Lake Tahoe basin (Nevada/California USA) over dry and wet years, we found the larger less shaded stream supported higher metabolism fluxes and exhibited more efficient inorganic nitrogen (e.g., nitrate and ammonium) assimilation. However, nitrogen assimilation and retention were severely reduced during the wet year due to the delayed onset of baseflow, which caused most available nitrogen in either stream to be transported instead of transformed.
 
 
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
-<div style="display: flex; justify-content: center;">
-  <figure style="max-width: 80%;">
-    <img src="/NCycle_diagram.png" alt="Your Image Alt Text" style="max-width: 80%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
-      Conceptual diagram of nitrogen dynamics in creeks.  
-    </figcaption>
-  </figure>
-</div>
-{{< /rawhtml >}}
 
 
 
@@ -66,16 +54,18 @@ Key Points
   </p>
   <div style="display: flex; justify-content: space-between;">
     <figure style="max-width: 90%;">
-    <img src="/CH1_biogechem_prelim result.png" alt="Your Image Alt Text" style="max-width: 90%; height: auto;">
+    <img src="/JGR_biogeosciences_conceptual_fig.PNG" alt="Your Image Alt Text" style="max-width: 90%; height: auto;">
     <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
-     Kernal density plots of ecosystem respiration and gross primary productivity from dry (2021 and 2022) and wet (2023) water years at Blackwood and Glenbrooks Creeks.
+     Hydroclimatic variabilityinfluencedgrowing season length, ecosystem metabolism,andnitrogen cyclingin the largeandthe small mountainstreams. Panel (a) illustrates how differences in light availability, channel morphology, and hydrologic conditions contributed to contrasting patterns of primary production, organic matter accumulation,and nitrogenprocessing between the two streams. Panel(b) illustrates the expected annual timing of the growing season in mountain streams and how hydroclimatic variability can shift its timing by altering snowpack duration and the onset of snowmelt and peakflow. 
     </figcaption>
   </figure>
 </div>
 {{< /rawhtml >}}
 
 
-This work is currently in reveiw with JGR: Biogeosciences. Data is currently availble [Link](https://doi.org/10.6073/pasta/ef32b986806f1d12e60494899de726f0) and analyses available at [Link](https://zenodo.org/records/18672729)
+Link to publication at JGR: Biogeosciences [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JG009229). [Download the .pdf here] (/JGR Biogeosciences - 2026 - Loria - Mountain Stream Ecosystem Metabolism and Nitrogen Cycling Responses to Hydroclimatic.pdf). 
+
+Data is currently availble [Link](https://doi.org/10.6073/pasta/ef32b986806f1d12e60494899de726f0) and analyses available at [Link](https://zenodo.org/records/18672729)
 
 
 **Co-authors:** Heili Lowman, Laurel Genzoli, Jasmine Krause, Adrian Harpold, Sudeep Chandra, and Joanna Blaszczak. 

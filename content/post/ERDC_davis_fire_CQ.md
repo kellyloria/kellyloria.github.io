@@ -33,21 +33,6 @@ Here, we present water quality responses from stream networks affected by the Da
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
   </p>
-  <div style="display: flex; justify-content: space-between;">
-    <figure style="max-width: 90%;">
-    <img src="/Davis_fire_baseflow_plot.png" alt="baseflow" style="max-width: 90%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
-       Catchment normalized streamflow (left y axis, lines in m3 s-1 km-1) and precipitation (right y axis, in mm) regimes at each surveyed reach. Points represent individual sampling events at each reach; the horizontal dashed line represents the date the fire was contained (September 25, 2024). Days associated with precipitation that increased streamflow are highlighted by vertical grey bars.
-    </figcaption>
-  </figure>
-</div>
-{{< /rawhtml >}}
-
-
-
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
 <div style="display: flex; justify-content: center;">
   <figure style="max-width: 80%;">
     <img src="/Davis_fire_browns_creek_recovery.png" alt="Browns creek" style="max-width: 80%; height: auto;">
