@@ -6,27 +6,48 @@
     <description>Recent content in Tags on Kelly Loria</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biogeochemistry</title>
       <link>http://localhost:1313/tags/biogeochemistry/</link>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/biogeochemistry/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydroclimatic Volatility</title>
       <link>http://localhost:1313/tags/hydroclimatic-volatility/</link>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hydroclimatic-volatility/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydrology</title>
       <link>http://localhost:1313/tags/hydrology/</link>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hydrology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metabolism</title>
+      <link>http://localhost:1313/tags/metabolism/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/metabolism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stream</title>
+      <link>http://localhost:1313/tags/stream/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stream/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tahoe</title>
+      <link>http://localhost:1313/tags/tahoe/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tahoe/</guid>
       <description></description>
     </item>
     <item>
@@ -37,31 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Stream</title>
-      <link>http://localhost:1313/tags/stream/</link>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stream/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Wildfire</title>
       <link>http://localhost:1313/tags/wildfire/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/wildfire/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Metabolism</title>
-      <link>http://localhost:1313/tags/metabolism/</link>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metabolism/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tahoe</title>
-      <link>http://localhost:1313/tags/tahoe/</link>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tahoe/</guid>
       <description></description>
     </item>
     <item>

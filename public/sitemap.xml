@@ -176,4 +176,8 @@
         <loc>http://localhost:1313/about/</loc>
     </url>
     
+    <url>
+        <loc>http://localhost:1313/teaching/</loc>
+    </url>
+    
 </urlset>

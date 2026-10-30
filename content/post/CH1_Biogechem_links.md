@@ -1,13 +1,13 @@
 +++
-date = "2026-02-05"
-title = "Mountain stream ecosystem metabolism and nitrogen cycling responses to hydroclimatic volatility"
+date = "2026-10-06"
+title = "Mountain stream responses to hydroclimatic volatility"
 slug = "Mountain stream ecosystem metabolism and nitrogen cycling"
 tags = ["Stream", "Biogeochemistry", "Metabolism", "Tahoe", "Hydrology", "hydroclimatic volatility"]
 readingtime = false
 hideAuthor = true
 +++
 
-### Biogeochemical linkages between nitrogen availability and mountain stream metabolism
+### Biogeochemical linkages between nitrogen availability and mountain stream metabolism across systems and in response to hydroclimatic volatility
 
 
 {{< rawhtml >}}
@@ -23,27 +23,10 @@ hideAuthor = true
 </div>
 {{< /rawhtml >}}
 
+This project investigated how variability in snowpack accumulation alters the synchrony of hydrologic processes (e.g., peak flow, and the onset of baseflow) and biological processes (e.g., nutrient uptake, assimilation, and fixation) that control nitrogen availability and demand in two mountain streams. By comparing two streams that represent opposite ends of the spectrum in watershed size, modeled runoff, and precipitation accumulation within the Lake Tahoe basin (Nevada/California USA) over dry and wet years, we found the larger less shaded stream supported higher metabolism fluxes and exhibited more efficient inorganic nitrogen (e.g., nitrate and ammonium) assimilation. However, nitrogen assimilation and retention were severely reduced during the wet year due to the delayed onset of baseflow, which caused most available nitrogen in either stream to be transported instead of transformed.
 
-This project investigates how variability in snowpack accumulation alters the synchrony of hydrologic processes (e.g., peak flow, and the onset of baseflow) and biological processes (e.g., nutrient uptake, assimilation, and fixation) that control nitrogen availability and demand in two mountain streams. By comparing two streams that represent opposite ends of the spectrum in watershed size, modeled runoff, and precipitation accumulation within the Lake Tahoe basin (Nevada/California USA) over dry and wet years, we found the larger less shaded stream supported higher metabolism fluxes and exhibited more efficient inorganic nitrogen (e.g., nitrate and ammonium) assimilation. However, nitrogen assimilation and retention were severely reduced during the wet year due to the delayed onset of baseflow, which caused most available nitrogen in either stream to be transported instead of transformed.
-
-
-
-
-
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-  </p>
-<div style="display: flex; justify-content: center;">
-  <figure style="max-width: 80%;">
-    <img src="/hydroclimate_variation.png" alt="Hydroclimate variation" style="max-width: 80%; height: auto;">
-    <figcaption style="font-size: 12px; margin-top: 0.5rem; text-align: center;">
-      How streamflow (lines) and precipitation as snow water equivalent (SWE, shaded bars) in changed from dry (2021 and 2022) to wet (2023) water years.  
-    </figcaption>
-  </figure>
-</div>
-{{< /rawhtml >}}
-
-Key Points
+## Key Points
+**Wet whiplash events can increase nitrogen supply from mountain streams and reduce retention in mountain streams, especially in streams with lower productivity.**
 - In response to a dry-to-wet hydroclimatic transition, the onset of baseflow in mountain streams was delayed by approximately 40 days.
 - The delay in baseflow onset in the wet year reduced cumulative gross primary productivity by over 90% in both streams.
 - Nitrogen demand dropped by up to 80% during the wet year in the large stream, while ammonium export rose by more than 100% in the small stream.
@@ -63,7 +46,7 @@ Key Points
 {{< /rawhtml >}}
 
 
-Link to publication at JGR: Biogeosciences [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JG009229). [Download the .pdf here] (/JGR Biogeosciences - 2026 - Loria - Mountain Stream Ecosystem Metabolism and Nitrogen Cycling Responses to Hydroclimatic.pdf). 
+Link to publication at JGR: Biogeosciences [Link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2025JG009229). [Download the .pdf here](/JGR_Biogeosciences_2026_Loria.pdf). 
 
 Data is currently availble [Link](https://doi.org/10.6073/pasta/ef32b986806f1d12e60494899de726f0) and analyses available at [Link](https://zenodo.org/records/18672729)
 
