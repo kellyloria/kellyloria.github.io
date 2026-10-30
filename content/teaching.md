@@ -33,15 +33,3 @@ Topics include:
 
 ### Inclusivity
 I believe in inclusive learning environments and support increasing the participation of all students in STEM fields and aquatic science.
-
-
-{{< rawhtml >}}
-<figure>
-  <div style="display: flex; justify-content: space-between;">
-    <img src="/Toone et al 2022 figure.PNG" alt="Your Image Alt Text" style="max-width:85%; height:auto;">
-  </div>
-  <figcaption>
-      <h6 style="font-size: 12px;"> Figure 2 from Toone et al. 2022 The 10 recommendations for increasing inclusion and support in restoration science. </h6>
-  </figcaption>
-</figure>
-{{< /rawhtml >}}
