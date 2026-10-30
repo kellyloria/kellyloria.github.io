@@ -27,7 +27,7 @@ In addition to field-based research, I’m working with collaborators at DRI to 
 
 
 
-**[Download my CV here](/kellyloria.github.io/static/Loria%202026%20CV_web.pdf)**
+**[Download my CV here](/Loria_2026_CV_web.pdf)**
 
 [Link to github](https://github.com/kellyloria)
 
